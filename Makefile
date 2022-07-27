@@ -1,5 +1,5 @@
 lint: 
-	docker run --rm -t -v `pwd`/integration/:/data/integration/ auth0josh/auth0-integration-testing npm run integration:lint
+	docker run --rm -t -v `pwd`/integration/:/data/integration/ auth0/marketplace-integration-tools npm run integration:lint
 
 zip: 
-	zip -r integration-action.zip integration
+	zip -r integration-oidc-guide.zip integration media

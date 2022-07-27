@@ -16,9 +16,9 @@ To integrate [[TODO: Your service name]] with your Auth0 tenant:
 1. Select **Add Integration** (at the top of this page).
 1. Choose the tenant with which you want to integrate.
 1. On the **New Connection** modal, complete the following fields:
-    * **Connection Name** - Name of the [[TODO: Your service name]] Connection
-    * **Issuer URL** - URL of the discovery document for [[TODO: Your service name]]
-    * **Client ID** - Client ID for [[TODO: Your service name]]
+   * **Connection Name** - Name of the [[TODO: Your service name]] Connection
+   * **Issuer URL** - URL of the discovery document for [[TODO: Your service name]]
+   * **Client ID** - Client ID for [[TODO: Your service name]]
 1. Select **Create**.
 1. Select the **Settings** view.
 
